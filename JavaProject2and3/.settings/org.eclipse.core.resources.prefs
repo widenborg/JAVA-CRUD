@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/org/tempuri/Course.java=UTF-8
+encoding//src/org/tempuri/HasStudied.java=UTF-8
+encoding//src/org/tempuri/OverflowService.java=UTF-8
+encoding//src/org/tempuri/OverflowServiceLocator.java=UTF-8
+encoding//src/org/tempuri/OverflowServiceSoap.java=UTF-8
+encoding//src/org/tempuri/OverflowServiceSoapStub.java=UTF-8
+encoding//src/org/tempuri/Student.java=UTF-8
+encoding//src/org/tempuri/StudentLoan.java=UTF-8
+encoding//src/org/tempuri/Studies.java=UTF-8
+encoding//src/org/tempuri/Teacher.java=UTF-8
+encoding//src/org/tempuri/Vehicle.java=UTF-8
+encoding//src/org/tempuri/WorksOn.java=UTF-8
